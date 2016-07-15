@@ -10,8 +10,6 @@ Tay Frost
    :maxdepth: 1
    :hidden:
 
-   index
-
 
 Projects
 ========
