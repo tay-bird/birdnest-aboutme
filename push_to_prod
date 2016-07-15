@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-git config --global user.name "Tay Frost"
-git config --global user.email "taylor@taybird.com"
 git add static
 git commit -m "Update."
 git push -u origin production

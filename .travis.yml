@@ -6,6 +6,13 @@ language: python
 python:
   - "2.7"
 
-install: "pip install -r requirements.txt"
-script: "./build"
-after_success: "./push_to_prod"
+before_install:
+  - git config --global user.name "Travis CI"
+  - git config --global user.email "taylor@taybird.com"
+  - echo -e "machine github.com\n  login $CI_USER_TOKEN" >> ~/.netrc
+install:
+  - "pip install -r requirements.txt"
+script:
+  - "./build"
+after_success:
+  - "./push_to_prod"
