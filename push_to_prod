@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-git add static
+git add application/static
 git commit -m "Update."
 git push -u origin production
