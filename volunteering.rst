@@ -6,19 +6,5 @@ Ladies Learning Code: Python Mentor
 
     :When:
     
-        September 2015
-
-    :Where:
-
-        Vancouver
-
-Ladies Learning Code: Python Mentor
------------------------------------
-
-    :When:
-    
-        March 2015
-
-    :Where:
-
-        Calgary
+        September 2015 - Vancouver
+        March 2015 - Calgary
