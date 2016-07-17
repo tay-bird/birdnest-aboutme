@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'aboutme'
+project = u'resume.rst'
 copyright = u'2016, Tay Frost'
 author = u'Tay Frost'
 
@@ -251,7 +251,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'aboutme', u'aboutme Documentation',
+    (master_doc, 'resume.rst', u'resume.rst',
      [author], 1)
 ]
 
@@ -265,8 +265,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'aboutme', u'aboutme Documentation',
-     author, 'aboutme', 'One line description of project.',
+    (master_doc, 'resume.rst', u'resume.rst',
+     author, 'resume.rst', 'One line description of project.',
      'Miscellaneous'),
 ]
 
