@@ -26,7 +26,7 @@ Stytch: Cloud Operations Engineer
     I am currently the sole Operations Engineer at Stytch. I am responsible for
     the configuration, deployment, and monitoring of our cloud-based infrastructure.
     This includes product launch and upgrades, continuous integration systems, and
-    troubleshooting of production and development environments. I contribute
+    troubleshooting of production and development environments. I also contribute
     regularly to the development of a number of in-house orchestration tools,
     primarily written in Python.
 
@@ -55,8 +55,6 @@ Demonware NOC: SysAdmin
     In 2015, I raised 334 hardware/service alerts and resolved 306 of them. I
     completed roughly 98 administrative assignments and responded to approximately
     36 major incidents.
-
-.. _NOC Tools Team:
 
 Demonware NOC: Tools Team
 -------------------------
