@@ -21,6 +21,27 @@ Stytch: Cloud Operations Engineer
     support for internal services such as Slack.
 
 
+Demonware: NOC Tools Team
+-------------------------
+
+:When:
+
+    November 2015 - March 2016
+
+:What:
+
+    As a member of the NOC Tools Team, I was tasked with the development and
+    maintenance of automation software. I planned, developed, and maintained two
+    internal services at Demonware: :ref:`Neversleep` and :ref:`Jarvis`. I also
+    wrote numerous scripts on request from team members to produce weekly management
+    reports, manage Google Calendar events, create and update JIRA tickets, and other
+    routine tasks.
+
+:Stats:
+
+    In 2015, I made 825 commits (+98 200 additions, -25 000 deletions).
+
+
 Demonware: Systems Administrator
 --------------------------------
 
@@ -49,22 +70,3 @@ Demonware: Systems Administrator
     36 major incidents.
 
 
-Demonware: NOC Tools Team
--------------------------
-
-:When:
-
-    November 2015 - March 2016
-
-:What:
-
-    As a member of the NOC Tools Team, I was tasked with the development and
-    maintenance of automation software. I planned, developed, and maintained two
-    internal services at Demonware: :ref:`Neversleep` and :ref:`Jarvis`. I also
-    wrote numerous scripts on request from team members to produce weekly management
-    reports, manage Google Calendar events, create and update JIRA tickets, and other
-    routine tasks.
-
-:Stats:
-
-    In 2015, I made 825 commits (+98 200 additions, -25 000 deletions).
