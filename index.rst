@@ -8,24 +8,9 @@ Tay Frost
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
 
    employment
    projects
    volunteering
-
-Certification
-=============
-
-:Red Hat Certified Systems Administrator:
-
-    RHCSA No. 150-168-201, as of Sept. 2015
-
-Contact Information
-===================
-
-:Email:
-    tay@taybird.com
-
-:LinkedIn:
-    https://ca.linkedin.com/in/taylor-frost-193b44102
+   certification
+   contact
