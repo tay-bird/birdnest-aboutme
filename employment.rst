@@ -2,8 +2,8 @@ Employment
 ==========
 
 
-Demonware NOC: SysAdmin
------------------------
+Demonware: Systems Administrator
+--------------------------------
 
 :When:
 
@@ -11,10 +11,11 @@ Demonware NOC: SysAdmin
 
 :What:
 
-    As a NOC SysAdmin, I am tasked with constantly reviewing the state of our
-    infrastructure looking for indicators of an issue that may detract from a
-    gamer’s experience, degrade Demonware's services, or present an issue for
-    our development units. I then take action on these incidents.
+    As a Systems Administrator, I was tasked with constantly reviewing the state
+    of Demonware's infrastructure. I looked for indicators of issues that may detract
+    from a gamer’s experience, degrade Demonware's services, or present an issue for
+    our development units. I would then resolve them myself or coordinate other teams
+    during major service incidents.
 
     In addition to my primary responsibility for the health of Demonware's
     infrastructure, I am also responsible for general administrative tasks during
@@ -45,7 +46,7 @@ Stytch: Cloud Operations Engineer
     primarily written in Python.
 
 
-Demonware NOC: Tools Team
+Demonware: NOC Tools Team
 -------------------------
 
 :When:
@@ -54,15 +55,12 @@ Demonware NOC: Tools Team
 
 :What:
 
-    As a member of the NOC Tools Team, I am responsible for the development and
-    maintenance of automation solutions. I work in cooperation with three
-    excellent coworkers towards the common goal of automating ourselves out of
-    our NOC SysAdmin positions.
-    
-    I planned, developed, and maintained two internal services at Demonware:
-    :ref:`Neversleep` and :ref:`Jarvis`. I also have a number of scripts to my
-    name that produce weekly management reports, manage Google Calendar events,
-    create and update JIRA tickets, and other routine tasks.
+    As a member of the NOC Tools Team, I was tasked with the development and
+    maintenance of automation software. I planned, developed, and maintained two
+    internal services at Demonware: :ref:`Neversleep` and :ref:`Jarvis`. I also
+    wrote numerous scripts on request from team members to produce weekly management
+    reports, manage Google Calendar events, create and update JIRA tickets, and other
+    routine tasks.
 
 :Stats:
 
