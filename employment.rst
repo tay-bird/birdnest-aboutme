@@ -11,14 +11,15 @@ Stytch: Cloud Operations Engineer
 
 :What:
 
-    I am currently the sole Operations Engineer at Stytch. I am responsible for
-    the configuration, deployment, and monitoring of our cloud-based infrastructure.
-    This includes product launch and upgrades, continuous integration systems, and
-    troubleshooting of production and development environments.
+    I am the sole Operations Engineer at Stytch. I oversee the configuration, 
+    deployment, and monitoring of our cloud-based infrastructure. I am responsible for
+    product launch and upgrades, continuous integration systems, and troubleshooting of
+    production and development environments.
     
     I also contribute regularly to the development of a number of in-house orchestration
-    tools, provide education on cloud infrastructure to my co-workers, and provide
-    support for internal services such as Slack.
+    tools, provide education on cloud infrastructure to my co-workers, provide
+    support for internal services such as Slack, and serve as Scrum Master for our Java
+    platform development team.
 
 
 Demonware: NOC Tools Team
