@@ -21,6 +21,9 @@ Stytch: Cloud Operations Engineer
     support for internal services such as Slack, and serve as Scrum Master for our Java
     platform development team.
 
+    I gave an interview about my work at Stytch to DevOps.com in August 2016, available
+    `here <http://example.com/>`_.
+
 
 Demonware: NOC Tools Team
 -------------------------
