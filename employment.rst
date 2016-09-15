@@ -7,18 +7,18 @@ Stytch: Cloud Operations Engineer
 
 :When:
 
-    March 2016 - Ongoing
+    March 2016 - September 2016
 
 :What:
 
-    I am the sole Operations Engineer at Stytch. I oversee the configuration, 
-    deployment, and monitoring of our cloud-based infrastructure. I am responsible for
+    I was the sole Operations Engineer at Stytch. I oversaw the configuration, 
+    deployment, and monitoring of Stytch's cloud-based infrastructure. I was responsible for
     product launch and upgrades, continuous integration systems, and troubleshooting of
     production and development environments.
     
-    I also contribute regularly to the development of a number of in-house orchestration
-    tools, provide education on cloud infrastructure to my co-workers, provide
-    support for internal services such as Slack, and serve as Scrum Master for our Java
+    I also contributed regularly to the development of a number of in-house orchestration
+    tools; provided education on cloud infrastructure to my co-workers; provided
+    support for internal services such as Slack; and served as Scrum Master for Stytch's Java
     platform development team.
 
     I gave an interview about my work at Stytch to DevOps.com in August 2016, available
