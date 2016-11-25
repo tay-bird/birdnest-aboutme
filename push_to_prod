@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-git checkout -b production
-git add application/static
-git commit -m "Update."
-git push -u origin production --force

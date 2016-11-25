@@ -55,7 +55,7 @@ clean:
 html:
 	$(SPHINXBUILD) -b html $(BUILDVERSION) . $(BUILDDIR)/static
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/application/static."
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)/static."
 
 .PHONY: dirhtml
 dirhtml:

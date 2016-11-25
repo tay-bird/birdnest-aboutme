@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-make html VERSION="${TRAVIS_BUILD_NUMBER}"
