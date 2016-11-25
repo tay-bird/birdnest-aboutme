@@ -16,6 +16,7 @@ deploy:
   provider: s3
   local_dir: static
   bucket: taybird-aboutme
+  skip_cleanup: true
   acl: public_read
   region: us-west-2
   secret_access_key:
