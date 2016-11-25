@@ -53,7 +53,7 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 html:
-	$(SPHINXBUILD) -b html $(BUILDVERSION) . $(BUILDDIR)/application/static
+	$(SPHINXBUILD) -b html $(BUILDVERSION) . $(BUILDDIR)/static
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/application/static."
 
