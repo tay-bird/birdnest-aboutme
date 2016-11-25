@@ -2,6 +2,18 @@ Employment
 ==========
 
 
+Electronic Arts: Systems Engineer
+---------------------------------
+
+:When:
+
+    October 2016 - Ongoing
+
+:What:
+
+    So far, a lot of support tickets!
+
+
 Stytch: Cloud Operations Engineer
 ---------------------------------
 
@@ -22,7 +34,7 @@ Stytch: Cloud Operations Engineer
     platform development team.
 
     I gave an interview about my work at Stytch to DevOps.com in August 2016, available
-    `here <http://example.com/>`_.
+    `here <https://devops.com/stytch-case-study-devops-culture-tools/>`_.
 
 
 Demonware: NOC Tools Team
