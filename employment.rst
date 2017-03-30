@@ -23,7 +23,7 @@ Stytch: Cloud Operations Engineer
 
 :What:
 
-    I was the sole Operations Engineer at Stytch. I oversaw the configuration, 
+    I was a Cloud Operations Engineer at Stytch. I oversaw the configuration, 
     deployment, and monitoring of Stytch's cloud-based infrastructure. I was responsible for
     product launch and upgrades, continuous integration systems, and troubleshooting of
     production and development environments.
@@ -53,10 +53,6 @@ Demonware: NOC Tools Team
     reports, manage Google Calendar events, create and update JIRA tickets, and other
     routine tasks.
 
-:Stats:
-
-    In 2015, I made 825 commits (+98 200 additions, -25 000 deletions).
-
 
 Demonware: Systems Administrator
 --------------------------------
@@ -78,11 +74,4 @@ Demonware: Systems Administrator
     any free time including configuring hosts and clusters, creating or improving
     Nagios checks, coordinating remote maintenance tasks and writing incident
     reports.
-
-:Stats:
-
-    In 2015, I raised 334 hardware/service alerts and resolved 306 of them. I
-    completed roughly 98 administrative assignments and responded to approximately
-    36 major incidents.
-
 

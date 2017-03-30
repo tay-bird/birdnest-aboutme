@@ -45,8 +45,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'resume.rst'
-copyright = u'2016, Tay Frost'
+project = u'taybird!'
+copyright = u'Tay Frost'
 author = u'Tay Frost'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -119,7 +119,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = "taybird!"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
