@@ -5,4 +5,4 @@ Contact Information
     tay@taybird.com
 
 :LinkedIn:
-    https://ca.linkedin.com/in/taylor-frost-193b44102
+    www.linkedin.com/in/tay-frost
