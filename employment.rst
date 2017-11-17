@@ -11,7 +11,12 @@ Electronic Arts: Systems Engineer
 
 :What:
 
-    So far, a lot of support tickets!
+    As a member of the EAX Operations team, I'm responsible for the cloud infrastructure
+    and networking that supports Origin and EA Access. Broadly, my responsibilities are:
+
+    * To support our feature developers by providing AWS infrastructure and monitoring services
+    * To understand and drive improvements to the architecture of our products
+    * To own and improve our internal caching and routing services
 
 
 Stytch: Cloud Operations Engineer
@@ -23,8 +28,8 @@ Stytch: Cloud Operations Engineer
 
 :What:
 
-    I was a Cloud Operations Engineer at Stytch. I oversaw the configuration, 
-    deployment, and monitoring of Stytch's cloud-based infrastructure. I was responsible for
+    During my time at Stytch as a Cloud Operations Engineer, I oversaw the configuration, 
+    deployment, and monitoring of our cloud-based infrastructure. I was responsible for
     product launch and upgrades, continuous integration systems, and troubleshooting of
     production and development environments.
     

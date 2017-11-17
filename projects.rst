@@ -1,6 +1,21 @@
 Projects
 ========
 
+Tool Garden
+-----------
+
+.. _Tool Garden:
+
+Tool Garden was an internal Python library at Stytch that supplemented Boto to
+deploy new applications and infrastructure. I worked on this project along with
+two other engineers at Stytch.
+
+Tool Garden was not a remarkable project. However, it was still a valuable
+experience for me. This was my first full-time software development
+project and my first time doing a major collaboration with another engineer.
+Additionally, it forced me to learn many new tools and processes: automated
+tests, staged deployments, api doc generation, and dependency management.
+
 .. _Hotswappy:
 
 Hotswappy
@@ -16,23 +31,23 @@ Documentation is available on `Github Pages <https://tay-bird.github.io/hotswapp
 Neversleep
 ----------
 
-Neversleep is a ChatOps platform used at Demonware. It provides a dynamic
-framework for developing plugins that interact with end users over Jabber (XMPP).
+Neversleep eas a ChatOps platform I developed at Demonware. It provided a dynamic
+framework for developing plugins that could interact with end users over Jabber.
 
-I developed Neversleep as a probation project shortly after I joined Demonware
-and continued to improve it throughout my time there. The core framework is now
-a robust, reliable, and well used internal ChatOps service.
+I developed Neversleep as an onboarding project shortly after I joined Demonware
+and continued to improve it throughout my time there. By the time I left, the core
+framework had matured into a robust, reliable, and well used internal ChatOps service.
 
 .. _Jarvis:
 
 Jarvis
 ------
 
-Jarvis is a framework used at Demonware for data aggregation and analysis.
-It watches for certain events or event patterns and generates email reports
+Jarvis was a monitoring framework used at Demonware for data aggregation and analysis.
+It watched for certain events or event patterns and generated email reports
 in response.
 
-I produced this service within the NOC department to provide other
+I produced this service with another engineer in the NOC department to provide other
 teams with a framework for gathering, analyzing, and responding to a wide range
 of system metrics.
 
@@ -44,9 +59,11 @@ Birdnest
 Birdnest is my current web presense at `taybird.com <https://taybird.com>`_
 (`Github <https://github.com/tay-bird/birdnest-web>`_) and
 `taybird.com/aboutme <https://taybird.com/aboutme>`_ 
-(`Github <https://github.com/tay-bird/birdnest-aboutme>`_). I've tried to keep
-my home page as light as possible, just a single route in Flask with minimal
-html and css. The document you're currently reading is restructured text built
+(`Github <https://github.com/tay-bird/birdnest-aboutme>`_). On the backend,
+Birdnest is a `Flask project <https://github.com/tay-bird/birdnest>`_ hosted
+on an AWS EC2 instance and proxying two AWS S3 buckets.
+
+The document you're currently reading is restructured text built
 with Sphinx on `Travis CI <https://travis-ci.org/tay-bird/birdnest-aboutme>`_.
 
 .. _Skybird:
