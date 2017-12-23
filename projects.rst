@@ -1,6 +1,17 @@
 Projects
 ========
 
+clouds.js
+---------
+
+.. _clouds.js:
+
+clouds.js generates unique cloudscapes for `taybird.com <https://taybird.com/>`_.
+I'm not a confident visual designer, so I challenged myself to create a novel
+background for my website without any image assets. The resulting page consists
+entirely of custom fonts and canvas/div shading. The source can be found on
+`GitHub <https://github.com/tay-bird/birdnest-web/blob/master/birdnest/js/clouds.js>`_.
+
 Tool Garden
 -----------
 
