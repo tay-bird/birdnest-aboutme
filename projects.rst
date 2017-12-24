@@ -67,14 +67,25 @@ of system metrics.
 Birdnest
 --------
 
-Birdnest is my current web presense at `taybird.com <https://taybird.com>`_
-(`Github <https://github.com/tay-bird/birdnest-web>`_) and
-`taybird.com/aboutme <https://taybird.com/aboutme>`_ 
-(`Github <https://github.com/tay-bird/birdnest-aboutme>`_). On the backend,
-Birdnest is a `Flask project <https://github.com/tay-bird/birdnest>`_ hosted
-on an AWS EC2 instance and proxying two AWS S3 buckets.
+Birdnest is my current web presense at `taybird.com <https://taybird.com>`_.
+This project consists of:
 
-The document you're currently reading is restructured text built
+birdnest-core
+~~~~~~~~~~~~~
+
+birdnest-core is an S3 router written in `Flask <https://github.com/tay-bird/birdnest>`_.
+It is served by AWS Lambda, API Gateway, and CloudFront.
+
+birdnest-web
+~~~~~~~~~~~~
+
+birdnest-web is my static html splash page. It is deployed to S3 by
+`Travis CI <https://travis-ci.org/tay-bird/birdnest-web>`_.
+
+birdnest-aboutme
+~~~~~~~~~~~~~~~~
+
+The page you're currently viewing is generated from restructured text
 with Sphinx on `Travis CI <https://travis-ci.org/tay-bird/birdnest-aboutme>`_.
 
 .. _Skybird:
