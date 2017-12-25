@@ -42,7 +42,7 @@ Documentation is available on `Github Pages <https://tay-bird.github.io/hotswapp
 Neversleep
 ----------
 
-Neversleep eas a ChatOps platform I developed at Demonware. It provided a dynamic
+Neversleep was a ChatOps platform I developed at Demonware. It provided a dynamic
 framework for developing plugins that could interact with end users over Jabber.
 
 I developed Neversleep as an onboarding project shortly after I joined Demonware
@@ -93,9 +93,8 @@ with Sphinx on `Travis CI <https://travis-ci.org/tay-bird/birdnest-aboutme>`_.
 Skybird
 -------
 
-Skybird is a lightweight cloud service for personal servers. It provides an 
-email and calendar interface, file management, and server statistics dashboards.
-Skybird can be run locally, or through Apache with WSGI.
+Skybird was a simple web protal for personal servers. It provided an 
+email and calendar interface, ;pca; file management, and server stats dashboards.
 
 I worked on this project in late 2014 to try my hand web development and hosting,
 database administration, and user authentication with OAuth. The source code is
