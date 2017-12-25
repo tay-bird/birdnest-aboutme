@@ -70,23 +70,17 @@ Birdnest
 Birdnest is my current web presense at `taybird.com <https://taybird.com>`_.
 This project consists of:
 
-birdnest-core
-~~~~~~~~~~~~~
+* **birdnest-core** is an S3 router written in `Flask <https://github.com/tay-bird/birdnest>`_.
+  It is served by AWS Lambda, API Gateway, and CloudFront.
+* **birdnest-web** is my static html splash page. It is deployed to S3 by
+  `Travis CI <https://travis-ci.org/tay-bird/birdnest-web>`_.
+* **birdnest-aboutme** (the page you're currently viewing) is generated from restructured
+  text with Sphinx on `Travis CI <https://travis-ci.org/tay-bird/birdnest-aboutme>`_.
 
-birdnest-core is an S3 router written in `Flask <https://github.com/tay-bird/birdnest>`_.
-It is served by AWS Lambda, API Gateway, and CloudFront.
+.. figure:: birdnest.png
+   :alt: an architecture diagram of Birdnest.
 
-birdnest-web
-~~~~~~~~~~~~
-
-birdnest-web is my static html splash page. It is deployed to S3 by
-`Travis CI <https://travis-ci.org/tay-bird/birdnest-web>`_.
-
-birdnest-aboutme
-~~~~~~~~~~~~~~~~
-
-The page you're currently viewing is generated from restructured text
-with Sphinx on `Travis CI <https://travis-ci.org/tay-bird/birdnest-aboutme>`_.
+   Birdnest architecture.
 
 .. _Skybird:
 
