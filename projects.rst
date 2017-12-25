@@ -94,7 +94,7 @@ Skybird
 -------
 
 Skybird was a simple web protal for personal servers. It provided an 
-email and calendar interface, ;pca; file management, and server stats dashboards.
+email and calendar interface, local file management, and server stats dashboards.
 
 I worked on this project in late 2014 to try my hand web development and hosting,
 database administration, and user authentication with OAuth. The source code is
