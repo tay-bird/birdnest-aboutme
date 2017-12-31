@@ -1,9 +1,8 @@
 Employment
 ==========
 
-
-Electronic Arts: Systems Engineer
----------------------------------
+Electronic Arts: Systems Engineer I & II
+----------------------------------------
 
 :When:
 
@@ -17,6 +16,19 @@ Electronic Arts: Systems Engineer
     * To support our feature developers by providing AWS infrastructure and monitoring services
     * To understand and drive improvements to the architecture of our products
     * To own and improve our internal caching and routing services
+
+    Since Spring 2017, my role also includes team process improvements and career planning for
+    junior engineers.
+
+:Notes:
+
+    * Designed and implemented continuous integration systems for our infrastructure and host
+      provisioning automation.
+    * Worked closely with engineers across several teams to recreate our hand-built cloud
+      infrastructure with fully reproducible automation.
+    * Carried out a series of training sessions on the secure management of sensitive information
+      to 100 engineers in our org.
+
 
 
 Stytch: Cloud Operations Engineer
@@ -41,22 +53,12 @@ Stytch: Cloud Operations Engineer
     I gave an interview about my work at Stytch to DevOps.com in August 2016, available
     `here <https://devops.com/stytch-case-study-devops-culture-tools/>`_.
 
+:Notes:
 
-Demonware: NOC Tools Team
--------------------------
-
-:When:
-
-    November 2015 - March 2016
-
-:What:
-
-    As a member of the NOC Tools Team, I was tasked with the development and
-    maintenance of automation software. I planned, developed, and maintained two
-    internal services at Demonware: :ref:`Neversleep` and :ref:`Jarvis`. I also
-    wrote numerous scripts on request from team members to produce weekly management
-    reports, manage Google Calendar events, create and update JIRA tickets, and other
-    routine tasks.
+    * Built and maintained an internal toolset that enabled our feature delivery teams to manage
+      their own cloud infrastructure at a highly abstract level.
+    * Planned and delivered a series of “Failure Friday” incident training sessions to our team of
+      20 developers.
 
 
 Demonware: Systems Administrator
@@ -75,8 +77,12 @@ Demonware: Systems Administrator
     during major service incidents.
 
     In addition to my primary responsibility for the health of Demonware's
-    infrastructure, I am also responsible for general administrative tasks during
+    infrastructure, I was also responsible for general administrative tasks during
     any free time including configuring hosts and clusters, creating or improving
     Nagios checks, coordinating remote maintenance tasks and writing incident
     reports.
 
+    I was also tasked with the development of small automation tools. I planned,
+    built, and maintained two internal services at Demonware: :ref:`Neversleep` and
+    :ref:`Jarvis`. I also wrote numerous scripts on request for team members to
+    produce reports, manage Google Calendar events, and track JIRA tickets.
