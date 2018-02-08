@@ -20,15 +20,6 @@ Electronic Arts: Systems Engineer I & II
     Since Spring 2017, my role also includes project planning, team process improvements
     and career development for junior engineers. I was promoted from SE I to SE II in December 2017.
 
-:Notes:
-
-    * Designed and implemented continuous integration systems for our infrastructure and host
-      provisioning automation.
-    * Worked closely with engineers across several teams to recreate our hand-built cloud
-      infrastructure with fully reproducible automation.
-    * Carried out a series of training sessions on the secure management of sensitive information
-      to 100 engineers in our org.
-
 
 
 Stytch: Cloud Operations Engineer
