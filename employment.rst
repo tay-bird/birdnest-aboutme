@@ -17,8 +17,8 @@ Electronic Arts: Systems Engineer I & II
     * To understand and drive improvements to the architecture of our products
     * To own and improve our internal caching and routing services
 
-    Since Spring 2017, my role also includes team process improvements and career planning for
-    junior engineers. I was promoted from SE I to SE II in December 2017.
+    Since Spring 2017, my role also includes project planning, team process improvements
+    and career development for junior engineers. I was promoted from SE I to SE II in December 2017.
 
 :Notes:
 
