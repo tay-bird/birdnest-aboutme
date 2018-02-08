@@ -87,7 +87,7 @@ This project consists of:
 Skybird
 -------
 
-Skybird was a simple web protal for personal servers. It provided an 
+Skybird was a simple web portal for personal servers. It provided an 
 email and calendar interface, local file management, and server stats dashboards.
 
 I worked on this project in late 2014 to try my hand web development and hosting,
