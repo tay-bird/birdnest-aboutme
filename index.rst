@@ -12,5 +12,6 @@ Tay Frost
    employment
    projects
    volunteering
+   speaking
    certification
    contact
