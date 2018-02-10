@@ -1,8 +1,8 @@
 Employment
 ==========
 
-Electronic Arts: Systems Engineer I & II
-----------------------------------------
+Electronic Arts: Systems Engineer
+---------------------------------
 
 :When:
 
