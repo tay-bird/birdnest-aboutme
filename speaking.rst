@@ -29,4 +29,5 @@ Ladies Learning Code
        
    :Where:
 
-       Lighthouse Labs, Vancouver 
+       Lighthouse Labs, Vancouver
+
