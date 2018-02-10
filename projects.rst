@@ -76,6 +76,7 @@ This project consists of:
   `Travis CI <https://travis-ci.org/tay-bird/birdnest-web>`_.
 * **birdnest-aboutme** (the page you're currently viewing) is generated from restructured
   text with Sphinx on `Travis CI <https://travis-ci.org/tay-bird/birdnest-aboutme>`_.
+* **birdnest-posts** is a journal built with Flask and DynamoDB. Mostly I write about birds.
 
 .. figure:: birdnest.png
    :alt: an architecture diagram of Birdnest.
