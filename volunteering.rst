@@ -8,13 +8,6 @@ Ladies Learning Code: Scratch Mentor
 
         * November 2016 - Vancouver
 
-Ladies Learning Code: Lightning Speaker
----------------------------------------
-
-    :When:
-
-        * October 2015 - Vancouver
-
 Ladies Learning Code: Python Mentor
 -----------------------------------
 
