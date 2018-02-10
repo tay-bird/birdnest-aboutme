@@ -17,12 +17,13 @@ Women Who Code
         Eletronic Arts, Burnaby
 
 Ladies Learning Code
+--------------------
 
     :What:
 
         Lightning Talk: Intro To Flask
 
-    When:
+    :When:
 
        October 2015
        
