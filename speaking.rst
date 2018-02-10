@@ -26,7 +26,7 @@ Ladies Learning Code
     :When:
 
        October 2015
-       
+
    :Where:
 
        Lighthouse Labs, Vancouver
