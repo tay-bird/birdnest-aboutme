@@ -1,6 +1,16 @@
 Projects
 ========
 
+BIRD FACTS
+----------
+
+.. _BIRD FACTS:
+
+BIRD FACTS is a Twitter bot (`@birdfaks <https://twitter.com/birdfaks>`_) I built
+that shares TRUE BIRD FACTS ABOUT BIRDS. (not really true) Under the hood, it is
+powered by AWS Lambda, Python and Wikipedia. The source is on
+`GitHub <https://github.com/tay-bird/birdfacts>`_.
+
 clouds.js
 ---------
 
