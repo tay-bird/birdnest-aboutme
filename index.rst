@@ -10,7 +10,8 @@ Tay Frost
    :maxdepth: 2
 
    employment
-   projects
+   employer_projects
+   personal_projects
    volunteering
    speaking
    certification
