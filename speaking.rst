@@ -1,6 +1,21 @@
 Speaking
 ========
 
+PyLadies
+--------
+
+    :What:
+
+        The Serverless Birdnest
+
+    :When:
+
+        October 2018
+
+    :Where:
+
+        EventBase, Vancouver
+
 Women Who Code
 --------------
 

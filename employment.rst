@@ -74,6 +74,6 @@ Demonware: Systems Administrator
     reports.
 
     I was also tasked with the development of small automation tools. I planned,
-    built, and maintained two internal services at Demonware: :ref:`Neversleep` and
-    :ref:`Jarvis`. I also wrote numerous scripts on request for team members to
-    produce reports, manage Google Calendar events, and track JIRA tickets.
+    built, and maintained two internal services at Demonware, "Neversleep" and "Jarvis".
+    I also wrote numerous scripts as needed for team members to produce reports, manage
+    Google Calendar events, and track JIRA tickets.
