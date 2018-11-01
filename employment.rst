@@ -1,17 +1,29 @@
 Employment
 ==========
 
+CircleCI: Site Reliability Engineer
+-----------------------------------
+
+:When:
+
+    October 2018 - Ongoing
+
+:What:
+
+    As a member of the SRE team at CircleCI, I partner with our technical teams to improve the
+    stability and performance of our product.
+
 Electronic Arts: Systems Engineer
 ---------------------------------
 
 :When:
 
-    October 2016 - Ongoing
+    October 2016 - October 2018
 
 :What:
 
-    As a member of the EAX Operations team, I'm responsible for the cloud infrastructure
-    and networking that supports Origin and EA Access. Broadly, my responsibilities are:
+    As a member of the EAX Operations team, I was responsible for the cloud infrastructure
+    and networking that supports Origin and EA Access. Broadly, my responsibilities were:
 
     * To support our feature developers by providing AWS infrastructure and monitoring services
     * To understand and drive improvements to the architecture of our products
